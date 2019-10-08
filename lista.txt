@@ -1,0 +1,8 @@
+alterações realizadas
+MODULO - OK
+SUBMODULO - OK
+-EDIT
+ACOES - OK
+PERMISSAO - OK
+PERFIL - OK
+usuario OK
