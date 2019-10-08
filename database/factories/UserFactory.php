@@ -23,7 +23,7 @@ $factory->define(App\Models\User::class, function (Faker $faker) {
         'email' => $login . '@' . $faker->domainName,
         'login' => $login,
         'email_verified_at' => now(),
-        'password' => Hash::make('cejam2019'),
+        'password' => Hash::make('lbase2019'),
         'remember_token' => str_random(10),
     ];
 });
